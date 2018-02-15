@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"name"
+		"name",
+		"posX"
 	],
 	"name" : "City",
 	"type" : "normal"
