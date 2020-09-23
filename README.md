@@ -12,9 +12,13 @@ The new image will show up in the right column, select it and then click on the 
 
 ### Linux & MacOs (CLI)
 If you prefer, you can directly download pharo from the command line, by executing
+
 ```$ curl get.pharo.org/64/stable+vm | bash ```
+
 Make sure Pharo runs by running
+
 ```$ ./pharo-ui Pharo.image ```
+
 You should now see the Pharo UI.
 
 ## About this Repository
