@@ -2,7 +2,7 @@ Meta Programming and Reflection - Pharo
 ===
 
 ## Pharo Download Instructions
-For the first part of the course we will be using *Pharo 8.0 stable (64 bit)*
+For the first part of the course we will be using *Pharo 8.0 stable (64 bit)*.
 In this document you can find instructions to download and run pharo with the PharoLauncher or through the command line.
 
 ### Windows & MacOs (& Linux)
