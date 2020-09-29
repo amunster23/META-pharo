@@ -7,8 +7,8 @@ In this document you can find instructions to download and run pharo with the Ph
 
 ### Windows & MacOs (& Linux)
 You can download the PharoLauncher at https://pharo.org/download.
-Make sure Pharo runs by selecting on the left column, under _Official Distributions_ the option _Pharo 8.0 - 64 bit (stable)_. Then click on the star-like button to create a Pharo image, and give it a name. 
-The new image will show up in the right column, select it and then click on the green play button. You should now see the Pharo UI.
+Make sure Pharo runs by creating an image (click on new button, top-left), under _Official Distributions_ select _Pharo 8.0 - 64bit (stable)_. Then set an image name, and click on create image.
+The new image will show up in the main view, select it and then click on the green _Launch_ button. You should now see the Pharo UI!
 
 ### Linux & MacOs (CLI)
 If you prefer, you can directly download pharo from the command line, by executing
